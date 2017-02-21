@@ -42,12 +42,12 @@ please use the http post method with below sample body;
 
 2. get product(s)
 please use the get method with sample url's
-- https://caysever-spark.herokuapp.com/api/products
-- https://caysever-spark.herokuapp.com/api/products/1
+ - https://caysever-spark.herokuapp.com/api/products
+ - https://caysever-spark.herokuapp.com/api/products/1
 
 3. delete product
 please use the http delete method with sample url
-- https://caysever-spark.herokuapp.com/api/products/1
+ - https://caysever-spark.herokuapp.com/api/products/1
 
 4. update product
 please use the http put method with below sample body;
