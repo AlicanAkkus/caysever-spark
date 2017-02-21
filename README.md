@@ -36,9 +36,10 @@ please use the http post method with below sample body;
     		"PHONE",
     		"ZTE"
     	],
-      "price":"2299",
+      "price":"2499",
       "available":"true"
       }
+
 2. get product(s)
 please use the get method with sample url's
 - https://caysever-spark.herokuapp.com/api/products
